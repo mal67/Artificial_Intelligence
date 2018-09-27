@@ -1,2 +1,2 @@
 # Artificial_Intelligence
-Artificial Intelligence module at Bath University
+Read the coursework description before accessing the files!
